@@ -1,0 +1,37 @@
+.App {
+  display: flex;
+}
+.content {
+  width: 100%;
+}
+.sidebar {
+  min-height: 800px;
+}
+.post-card {
+  margin: 20px 50px;
+}
+.tags {
+  margin: 0px 5px;
+}
+.reactIcon {
+  color: red;
+  width: 30px;
+  height: 25px;
+}
+.create-post {
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.social {
+  font-size: 20px;
+}
+.welcome {
+  margin: 130px 0px;
+}
+.nopost {
+  margin: 30px 0px;
+}
+.spinner {
+  margin: 50px 0px;
+}
